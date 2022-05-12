@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ECommerceApp</string>
+    <string name="labelA">Bienvenido</string>
+    <string name="edmail">Correo Electrónico</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_sesion">Login</string>
+    <string name="label_registrar">Nuevo usuario? Registrarme ahora</string>
+    <string name="label_olvide">Olvidaste tu contraseña?</string>
+</resources>
